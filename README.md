@@ -7,3 +7,8 @@
 | `ch03-02_socket_server/` | **ch03-02** HTTP 요청 확인용 Python 소켓 서버 + 출력 파일 |
 
 각 폴더의 README.md 에 실행 방법이 있습니다.
+
+## 제출 URL (실습과제03)
+
+- GitHub: https://github.com/pyo-dev03/Django-blog
+- PythonAnywhere: https://vyjsjs.pythonanywhere.com

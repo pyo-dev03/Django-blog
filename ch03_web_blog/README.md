@@ -65,7 +65,7 @@ API_USER=<username> API_PASSWORD=<password> python test_api/test_api.py
 ## PythonAnywhere 배포 (요약)
 
 ```bash
-git clone https://github.com/vyjsjs/Django-blog.git
+git clone https://github.com/pyo-dev03/Django-blog.git
 cd Django-blog/ch03_web_blog
 python3.13 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
